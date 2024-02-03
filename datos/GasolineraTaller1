@@ -1,0 +1,13 @@
+tipo:Allinol:15000:5050.5
+tipo:Gasolina marca ACME:18000:8080.8
+tipo:Coaxium:17000:7070.7
+tipo:Dinoco:16000:6060.6
+surtidor:Nami:Allinol:0.0:Gasolina marca ACME:0.0:Coaxium:0.0:Dinoco:0.0
+surtidor:Roronoa Zoro:Allinol:0.0:Gasolina marca ACME:0.0:Coaxium:0.0:Dinoco:0.0
+surtidor:Usopp:Allinol:0.0:Gasolina marca ACME:0.0:Coaxium:0.0:Dinoco:0.0
+surtidor:Nami:Allinol:0.0:Gasolina marca ACME:0.0:Coaxium:0.0:Dinoco:0.0
+empleado:Usopp:0
+empleado:Monkey D. Luffy:0
+empleado:Roronoa Zoro:0
+empleado:Nami:0
+empleado:Vinsmoke Sanji:0
